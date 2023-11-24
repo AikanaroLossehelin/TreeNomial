@@ -1,0 +1,17 @@
+Type d'option: Put;
+Catégorie : American;
+Nombre de pas : 200.0;
+Spot : 100.0;
+Strike : 102.0;
+Volatilité : 0.25;
+Taux : 0.02;
+Dividende : 3.0;
+Echelle : 365.0;
+Date de pricing : 2023-06-10;
+Date Ex-div : 2023-07-02;
+Maturité : 2023-12-24;
+Spot 1 : 100.0;
+Spot 2 : 101.0;
+Spot 3 : 102.0;
+Volatilité 1 : 0.16666666666666666;
+Volatilité 2 : 0.2;
