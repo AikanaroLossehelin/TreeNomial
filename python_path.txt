@@ -1,1 +1,1 @@
-C:\Users\aikan\anaconda3\python.exe
+C:\Users\path\to\python.exe
